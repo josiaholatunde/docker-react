@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Thanks for using reactjs
+          Thanks for using reactjs. Justr an extra change
         </p>
       </header>
     </div>
